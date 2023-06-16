@@ -1,0 +1,8 @@
+#app.yaml
+runtime: python37
+
+env_variables:
+  CLOUD_SQL_USERNAME: pig
+  CLOUD_SQL_PASSWORD: pig123
+  CLOUD_SQL_DATABASE_NAME: db_animal
+  CLOUD_SQL_CONNECTION_NAME: capstone-project-389607:asia-southeast2:scan-animal
